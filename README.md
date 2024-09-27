@@ -32,4 +32,4 @@ En este repositorio describiremos el juego "Yucacrush", y todos los elementos qu
 
 - La interfaz del usuario será intuitiva y fácil de usar.
 
-- El tiempo de respuesta para cada acción que el jugador realize debe ser igual o menor a un segundo de respuesta.
+- El tiempo de respuesta para cada acción que el jugador realize debe ser igual o menor a un segundo de respuesta
