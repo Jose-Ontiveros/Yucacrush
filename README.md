@@ -17,7 +17,13 @@ En este repositorio describiremos el juego "Yucacrush", y todos los elementos qu
 
 - El juego tendrá "boosters", los cuales darán ventajas al jugador y podrán usarse en cualquier momento en todos los niveles.
 
+- El juego permitira al usuario acceder a las configuraciones del juego mediante un boton que se mostrara en el mapa de niveles y durante una partida comenzada. 
 
+- El usuario podra iniciar sesion con su nombre de usuario y contraseña, o tambien con algun correo vinculado a su dispositivo. 
+
+- El jugador tendra acceso a una tienda en la pantalla del mapa de niveles, donde podra adquirir "boosters", vidas y aparencias para los caramelos mediante monedas de oro que se consiguen jugando o con dinero real.
+
+- El juego contara con un autoguardado para el progreso del jugador cada vez que este complete un nivel o cierre el juego. 
 
 ## **Requerimientos NO Funcionales** ##
 - Habrá transparencia y moderación en las compras dentro del juego.
@@ -33,3 +39,11 @@ En este repositorio describiremos el juego "Yucacrush", y todos los elementos qu
 - La interfaz del usuario será intuitiva y fácil de usar.
 
 - El tiempo de respuesta para cada acción que el jugador realize debe ser igual o menor a un segundo de respuesta.
+
+- El juego tendra la clasificacion PEGI 3, lo cual asegura que el contenido del juego es apto para todo grupo de edades.
+
+- El juego tendra disponible para el usuario los idiomas español, ingles y maya. 
+
+- En caso de desconexion de la red en una partida, el juego permitira al usuario volver al mismo punto de la partida una vez recuperada la red. 
+
+- El juego tendra actualizaciones periodicas, donde se añadiran niveles y se actualizara la tienda con nuevas apariencias para los caramelos. 
