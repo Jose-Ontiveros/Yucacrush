@@ -43,6 +43,9 @@
 
 - El juego tendra una ruleta con 3 giros gratis por dia y dos opciones para obtener mas giros, una viendo anuncios y otra comprando creditos.
 
+- El juego debe permitir al jugador poder cambiar el idioma del interfaz en cualquier momento desde el menu de configuraciones
+
+- El jugador podra pausar el juego en cualquier momento y reanudarlo en el punto que lo dejo 
 ---
 ## 🔴**Requerimientos NO Funcionales**🔴
 - Habrá transparencia y moderación en las compras dentro del juego.
@@ -76,6 +79,10 @@
 - En caso de desconexion de la red en una partida, el juego permitira al usuario volver al mismo punto de la partida una vez recuperada la red. 
 
 - El juego tendra actualizaciones periodicas, donde se añadiran niveles y se actualizara la tienda con nuevas apariencias para los caramelos.
+
+- El juego debe tener un uso de memoria eficiente, utulizando un maximo de 200MB
+
+- El juego debe debe ser capaz de adaptarse a diferentes resoluciones de pantalla automaticamente 
 
 ---
 >[!Note]
