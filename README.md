@@ -33,7 +33,7 @@
 
 - El juego permitira al usuario acceder a las configuraciones del juego mediante un boton que se mostrara en el mapa de niveles y durante una partida comenzada. 
 
-- El usuario podra iniciar sesion con su nombre de usuario y contraseña, o tambien con algun correo vinculado a su dispositivo. 
+- Al iniciar el juego por primera vez o despues de reinstalarlo, el usuario podra iniciar sesion o registrarse con un nombre de usuario y una contraseña. 
 
 - El jugador tendra acceso a una tienda en la pantalla del mapa de niveles, donde podra adquirir "boosters", vidas y aparencias para los caramelos mediante monedas de oro que se consiguen jugando o con dinero real.
 
@@ -80,13 +80,15 @@
 
 - El tiempo de respuesta para cada acción que el jugador realize debe ser igual o menor a un segundo de respuesta.
 
-- El juego tendra la clasificacion PEGI 3, lo cual asegura que el contenido del juego es apto para todo grupo de edades.
+- El juego tendra la clasificacion E (for everyone) en base a la Entertainment Software Rating Board (ESRB), lo cual asegura que el contenido del juego es apto para todo grupo de edades.
 
-- El juego tendra disponible para el usuario los idiomas español, ingles y maya. 
+- El juego debera ser accesible en al menos tres idiomas (Español, ingles y maya), para que el usuario pueda elegir su idioma ideal. 
 
 - En caso de desconexion de la red en una partida, el juego permitira al usuario volver al mismo punto de la partida una vez recuperada la red. 
 
 - El juego tendra actualizaciones periodicas, donde se añadiran niveles y se actualizara la tienda con nuevas apariencias para los caramelos.
+
+- Los anuncios en el juego no interrumpiran la experiencia del usuario por mas de diez segundos al final de cada nivel terminado. Estos se cargaran de manera eficiente en un segundo plano para que no afecte el rendimiento del juego. 
 
 - El juego debe tener un uso de memoria eficiente, utulizando un maximo de 200MB
 
