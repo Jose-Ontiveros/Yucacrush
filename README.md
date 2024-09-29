@@ -3,7 +3,7 @@
 ![Yucacrush](https://github.com/user-attachments/assets/1c2d54c4-de3d-4f7b-96e3-2d93accecd1f)
 ---
 >[!Important]
-> **Objetivos:** En este repositorio describiremos el juego "Yucacrush" y todos los elementos que llevará en su desarrollo, nuestro objetivo es crear un juego tipo Candy Crush capaz de tener un buen rendimiento en cualquier dispositivo movil para q la diversion nunca falte.🐣
+> **Proposito:** En este repositorio describiremos el juego "Yucacrush" y todos los elementos que llevará en su desarrollo, nuestro objetivo es crear un juego tipo Candy Crush capaz de tener un buen rendimiento en cualquier dispositivo movil para q la diversion nunca falte.🐣
 ---
 >## `📝Indice`
 >- [🟢Requerimientos Funcionales](#requerimientos-funcionales)
@@ -22,6 +22,10 @@
 - El juego tiene la capacidad para conectarse con amigos y  ver sus progreso en el mapa de niveles.
 
 - El juego debe permitir a los usuarios avanzar por diferentes niveles con objetivos específicos, como eliminar un número determinado de caramelos o alcanzar una cierta puntuación dentro de un límite de movimientos hechos.
+  
+- El sistema debe sumar puntos por cada combinación realizada.
+
+-  El juego debe detectar y eliminar combinaciones de tres o más caramelos iguales.
 
 - El juego contará con un sistema de vidas donde si se falla un nivel se pierde una, estas vidas se regenerarán cada cierto tiempo.
 
@@ -49,6 +53,10 @@
 ---
 ## 🔴**Requerimientos NO Funcionales**🔴
 - Habrá transparencia y moderación en las compras dentro del juego.
+  
+- El juego debe funcionar sin retrasos en dispositivos móviles.
+  
+- Los datos del jugador y las transacciones deben estar protegidos
 
 - El juego cumplirá con la Ley de Federación de Protección de Datos Personales de los Particulares para Mérida, Yucatán.
 
