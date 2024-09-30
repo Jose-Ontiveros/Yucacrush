@@ -56,6 +56,8 @@
 - El juego debe incluir un sistema de recompensas para los usuarios, motivandolos a seguir
 
 - El juego contará con eventos especiales en diferentes épocas del año, agregando nuevos niveles y temáticas
+
+- El juego tendrá la opción de cambiar el color de los objetos para la gente que tenga discapacidades visuales
 ---
 ## 🔴**Requerimientos NO Funcionales**🔴
 - Habrá transparencia y moderación en las compras dentro del juego.
@@ -100,7 +102,6 @@
 
 - El juego debe de ser capaz de adaptarse a diferentes resoluciones de pantalla automaticamente
 
-- El juego tendrá la opción de cambiar el color de los objetos para la gente que tenga discapacidades visuales
 
 ---
 >[!Note]
