@@ -25,7 +25,7 @@
   
 - El sistema debe sumar puntos por cada combinación realizada.
 
--  El juego debe detectar y eliminar combinaciones de tres o más caramelos iguales.
+- El juego debe detectar y eliminar combinaciones de tres o más caramelos iguales.
 
 - El juego contará con un sistema de vidas donde si se falla un nivel se pierde una, estas vidas se regenerarán cada cierto tiempo.
 
@@ -49,7 +49,13 @@
 
 - El juego debe permitir al jugador poder cambiar el idioma del interfaz en cualquier momento desde el menu de configuraciones
 
-- El jugador podra pausar el juego en cualquier momento y reanudarlo en el punto que lo dejo 
+- El jugador podra pausar el juego en cualquier momento y reanudarlo en el punto que lo dejo
+
+- El juego debe permitir jugar cierta cantidad de niveles cuando se encuentre offline
+
+- El juego debe incluir un sistema de recompensas para los usuarios, motivandolos a seguir
+
+- El juego contará con eventos especiales en diferentes épocas del año, agregando nuevos niveles y temáticas
 ---
 ## 🔴**Requerimientos NO Funcionales**🔴
 - Habrá transparencia y moderación en las compras dentro del juego.
@@ -92,7 +98,9 @@
 
 - El juego debe tener un uso de memoria eficiente, utulizando un maximo de 200MB
 
-- El juego debe debe ser capaz de adaptarse a diferentes resoluciones de pantalla automaticamente 
+- El juego debe de ser capaz de adaptarse a diferentes resoluciones de pantalla automaticamente
+
+- El juego tendrá la opción de cambiar el color de los objetos para la gente que tenga discapacidades visuales
 
 ---
 >[!Note]
