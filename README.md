@@ -29,6 +29,8 @@
 
 - El juego contará con un sistema de vidas donde si se falla un nivel se pierde una, estas vidas se regenerarán cada cierto tiempo.
 
+- En el juego se pueden usar microtransacciones para comprar vidas. 
+
 - El juego tendrá "boosters", los cuales darán ventajas al jugador y podrán usarse en cualquier momento en todos los niveles.
 
 - El juego permitira al usuario acceder a las configuraciones del juego mediante un boton que se mostrara en el mapa de niveles y durante una partida comenzada. 
@@ -78,11 +80,11 @@
 
 - El juego mostrara en pantalla una pagina donde el usuario podra ver los "Terminos y condiciones" y debera aceptarlos para poder ingresar al juego.
 
+- Los Terminos y Condiciones al pasar el tiempo se podrán cambiar, al pasar esto se tendran que volver a aceptar
+
 - Se manejará el Estandar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI-DSS), para garantizar la seguridad de las transacciones con tarjetas de pago.
 
 - El juego debe ser compatible con, incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
-
-- En el juego se pueden usar microtransacciones para comprar vidas. 
 
 - La interfaz del usuario será intuitiva y fácil de usar.
 
@@ -102,7 +104,7 @@
 
 - El juego debe de ser capaz de adaptarse a diferentes resoluciones de pantalla automaticamente
 
-
+- El juego tiene un control parental para los jugadores menores de edad donde se pedirá una contraseña al hacer transacciones si este modo se activa, para desactivarlo también se debe ingresar la conraseña
 ---
 >[!Note]
 >Este proyecto aun esta en desarrollo. ☹︎
