@@ -49,15 +49,9 @@
 
 - El juego cumplirá con la Ley de Federación de Protección de Datos Personales de los Particulares para Mérida, Yucatán.
 
-- El juego sera compatibles para dispositivos moviles iOS y Android.
-
 - El maximo de FPS(Frames Per Second) sera de 60 cuadros por segundo.
 
-- El juego debera tener una copiar de seguridad y versiones anteriores que permitan volver a una version en caso de algun error.
-
 - El juego debera soportar como minimo 50,000 jugadores simultaneos sin afectar al rendimiento.
-
-- El juego mostrara en pantalla una pagina donde el usuario podra ver los "Terminos y condiciones" y debera aceptarlos para poder ingresar al juego.
 
 - Se manejará el Estandar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI-DSS), para garantizar la seguridad de las transacciones con tarjetas de pago.
 
