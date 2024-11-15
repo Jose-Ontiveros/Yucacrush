@@ -20,6 +20,6 @@ En este repositorio describiremos el juego "Yucacrush", y todos los elementos qu
 - El juego cumplirá con la Ley de Federación de Protección de Datos Personales de los Particulares para Mérida, Yucatán.
 
 - Se manejará el Estandar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI-DSS), para garantizar la seguridad de las transacciones con tarjetas de pago.
+- El juego debe ser compatible con, incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
 - El sistema debe de guardar el proceso de juego del jugador en las partidas ya completadas.
--El juego debe ser compatible con, incluidas Android 6 en adelante, y debe adaptarse a una variedad de tamaños de pantalla, desde teléfonos inteligentes hasta tabletas.
--El sistema debe de manejar correctamente las colisiones y combinaciones de caramelos.
+- El sistema debe de manejar correctamente las colisiones y combinaciones de caramelos.
